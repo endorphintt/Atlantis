@@ -1,2 +1,1 @@
-# Atlantis
-will add later
+some text to readme
